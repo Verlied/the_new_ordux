@@ -1,0 +1,16 @@
+focus_tree = {
+	id = MCW_moscow_start
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = MCW
+		}
+	}
+	default = no
+	shared_focus = focus_the_failed_colony
+	shared_focus = generalplan_moscokowein_failure
+	shared_focus = the_ticking_bomb
+	shared_focus = demand_of_change
+}
+

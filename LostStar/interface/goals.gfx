@@ -1,0 +1,39 @@
+spriteTypes = {	
+
+SpriteType = {
+	name = "GFX_whispers_of_treason"
+	texturefile = "gfx/interface/goals/focus_whispers_of_treason.dds"			
+	}	
+
+SpriteType = {
+	name = "GFX_whispers_of_liberation"
+	texturefile = "gfx/interface/goals/focus_whispers_of_liberation.dds"			
+	}	
+
+SpriteType = {
+	name = "GFX_demand_of_change"
+	texturefile = "gfx/interface/goals/focus_demand_of_change.dds"			
+	}	
+
+SpriteType = {
+	name = "GFX_generalplan_moscokowein_failure"
+	texturefile = "gfx/interface/goals/focus_generalplan_moscokowein_failure.dds"			
+	}	
+
+SpriteType = {
+	name = "GFX_the_ticking_bomb"
+	texturefile = "gfx/interface/goals/focus_the_ticking_bomb.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_the_failed_colony"
+	texturefile = "gfx/interface/goals/focus_the_failed_colony.dds"			
+	}	
+
+	SpriteType = {
+		name = "GFX_goal_unknown"
+		texturefile = "gfx/interface/goals/goal_unknown.dds"
+		legacy_lazy_load = no
+	}
+
+}
