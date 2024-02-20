@@ -3,7 +3,7 @@ state={
 	name="STATE_737"
 
 	history={
-		owner = JAP
+		owner = INS
 		buildings = {
 			infrastructure = 4
 			air_base = 5

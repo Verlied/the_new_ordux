@@ -1,0 +1,18 @@
+##CO-PROSPERITY SPHERE##
+CHI = "countries/China.txt"
+GAN = "countries/Gansu.txt"
+GNG = "countries/Guangdong.txt"
+GUX = "countries/Guangxi.txt"
+GUZ = "countries/Guizhou.txt"
+INS = "countries/Indonesia.txt"
+JAP = "countries/Japan.txt"
+MAN = "countries/Manchukuo.txt"
+MEN = "countries/Mengjiang.txt"
+SHX = "countries/Shanxi.txt"
+THA = "countries/Thailand.txt"
+VIN = "countries/Vietnam.txt"
+YUN = "countries/Yunan.txt"
+
+##ASIA##
+TIB = "countries/Tibet.txt"
+XIK = "countries/Xikang.txt"

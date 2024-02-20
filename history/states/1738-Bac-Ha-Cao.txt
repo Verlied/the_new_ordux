@@ -9,9 +9,10 @@ state={
 	}
 
 	history={
-		owner = VIC
+		owner = VIN
 		add_core_of = VIC
 		add_core_of = VIN
+		set_demilitarized_zone = yes
 		victory_points = { 12065 1 }
 		buildings = {
 			infrastructure = 2
