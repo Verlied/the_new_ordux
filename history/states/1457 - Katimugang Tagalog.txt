@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = PHI
+		owner=USA
 		buildings = {
-			infrastructure = 4
+			infrastructure=4
 			14716 = {
 				naval_base = 6
 
@@ -31,9 +31,8 @@ state={
 		victory_points = {
 			14712 3 
 		}
+		add_core_of = USA
 		add_core_of = PHI
-		add_core_of = SPH
-		add_core_of = UPH
 
 	}
 

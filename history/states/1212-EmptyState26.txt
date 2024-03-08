@@ -4,10 +4,11 @@ state={
 	name="STATE_1212"
 
 	history={
-		owner = MDI
+		owner=FFR
+		add_core_of = FFR
 		add_core_of = MDI
 		buildings = {
-			infrastructure = 1
+			infrastructure=1
 		}
 
 	}

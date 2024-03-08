@@ -4,10 +4,10 @@ state={
 	name="STATE_1036"
 
 	history={
-		owner = ANG
+		owner=IBR
 		add_core_of = ANG
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 			prisons = 2
 		}
 	}

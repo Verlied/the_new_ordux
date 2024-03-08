@@ -7,19 +7,19 @@ state={
 	}
 
 	history={
-		owner = ANG
+		owner=IBR
 		add_core_of = ANG
 		buildings = {
-			infrastructure = 4
-			air_base = 3
+			infrastructure=4
+			air_base=3
 			8248 ={
 				naval_base = 5
 			}
-			dockyard = 1
+			dockyard=1
 			schools = 2
 			hospitals = 2
 			prisons = 1
-			anti_air_building = 3
+			anti_air_building=3
 		}
 		victory_points = { 8248 30 }
 	}

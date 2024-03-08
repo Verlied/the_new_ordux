@@ -2,14 +2,14 @@ state=
 {
 	id=638
 	name="STATE_638"
-	state_category = small_island
+	state_category=small_island
 	manpower=75153
 	history=
 	{
-		owner = JAP
+		owner=USA
 		buildings = {
-			infrastructure = 4
-			air_base = 1
+			infrastructure=4
+			air_base=1
 			12140 = {
 				naval_base = 1
 			}
@@ -17,7 +17,7 @@ state=
 		victory_points = {
 			12140 1
 		}
-		add_core_of = JAP
+		add_core_of = USA
 
 	}
 	provinces={

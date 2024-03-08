@@ -4,10 +4,10 @@ state={
 	name="STATE_1752"
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=IBR
+		add_core_of = GAZ
 		buildings = {
-			infrastructure = 3
+			infrastructure=3
 			offices = 1
 			hospitals = 1
 			schools = 1
@@ -18,7 +18,7 @@ state={
 	provinces={
 		5155
 	}
-	manpower = 314235
+	manpower=314235
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -4,10 +4,10 @@ state={
 	name="STATE_1075"
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=ZIM
+		add_core_of = ZIM
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 		}
 	}
 

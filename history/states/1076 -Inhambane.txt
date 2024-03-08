@@ -3,14 +3,14 @@ state={
 	id=1076
 	name="STATE_1076"
 	resources={
-		rubber = 1
+		rubber=1
 	}
 	provinces={
 		2193 5177 5212 13675 15382
 	}
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=IBR
+		add_core_of = GAZ
 		victory_points = { 15382 5 }
 		victory_points = { 2193 1 }
 		buildings = {
@@ -18,10 +18,10 @@ state={
 			offices = 1 
 			thermoelectric_plant = 1
 			hospitals = 1
-			infrastructure = 2
+			infrastructure=2
 		}
 	}
 	state_category=rural
-	manpower = 583059
+	manpower=583059
 	buildings_max_level_factor=1.000
 }

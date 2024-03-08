@@ -8,10 +8,10 @@ state={
 	}
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=ZIM
+		add_core_of = ZIM
 		buildings = {
-			infrastructure = 1
+			infrastructure=1
 		}
 	}
 

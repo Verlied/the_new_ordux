@@ -4,10 +4,10 @@ state={
 	name="STATE_1065"
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=ZIM
+		add_core_of = ZIM
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 			barracks = 1
 		}
 		victory_points = { 13686 10 }
@@ -17,7 +17,7 @@ state={
 	provinces={
 		2151 13680 13686
 	}
-	manpower = 175000
+	manpower=175000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

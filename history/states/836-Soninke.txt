@@ -4,7 +4,8 @@ state={
 	name="STATE_836"
 
 	history={
-		owner = MLI
+		owner=FFR
+		add_core_of = FFR
 		add_core_of = MLI
 		set_demilitarized_zone = yes	
 		victory_points = { 14149 1 }

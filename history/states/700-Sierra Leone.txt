@@ -4,13 +4,14 @@ state={
 	name="STATE_700"
 
 	history={
+		add_core_of = FFR
 		add_core_of = MDI
-		owner = MDI
+		owner=FFR
 		victory_points = {
 			2038 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 			2038 = {
 				naval_base = 3
 

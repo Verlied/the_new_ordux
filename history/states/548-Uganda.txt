@@ -7,16 +7,16 @@ state={
 	}
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=EGY
+		add_core_of = EGY
 		victory_points = {
 			12989 10 
 		}
 		buildings = {
 			offices = 1
-			infrastructure = 2
-			radar_station = 2
-			air_base = 1
+			infrastructure=2
+			radar_station=2
+			air_base=1
 
 		}
 		set_state_flag = universal_renamings

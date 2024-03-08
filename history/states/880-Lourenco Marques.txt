@@ -9,8 +9,8 @@ state={
 		8245
 	}
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=IBR
+		add_core_of = GAZ
 		victory_points = { 8245 30 }
 		buildings = {
 			8245 = {
@@ -22,10 +22,10 @@ state={
 			prisons = 1
 			thermoelectric_plant = 1
 			offices = 1
-			infrastructure = 4
+			infrastructure=4
 		}
 	}
 	state_category=town
-	manpower = 480608
+	manpower=480608
 	buildings_max_level_factor=1.000
 }

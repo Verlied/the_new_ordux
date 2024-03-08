@@ -7,16 +7,16 @@ state={
 	}
 	
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=ZIM
+		add_core_of = ZIM
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 			offices = 1
 		}
 		victory_points = { 7842 10 }
 		victory_points = { 13708 1 }
 	}
 	state_category=rural
-	manpower = 512000
+	manpower=512000
 	buildings_max_level_factor=1.000
 }

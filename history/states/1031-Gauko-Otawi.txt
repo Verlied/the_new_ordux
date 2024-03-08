@@ -4,10 +4,10 @@ state={
 	name="STATE_1031"
 
 	history={
-		owner = ANG
+		owner=IBR
 		add_core_of = ANG
 		buildings = {
-			infrastructure = 1
+			infrastructure=1
 		}
 		set_state_flag = state_renamings
 		victory_points = { 13716 10 }

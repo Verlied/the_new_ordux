@@ -7,12 +7,13 @@ state={
 	}
 
 	history={
+		add_core_of = FFR
 		add_core_of = WOL
-		owner = WOL
+		owner=FFR
 		buildings = {
-			infrastructure = 3
-			air_base = 2
-			anti_air_building = 1
+			infrastructure=3
+			air_base=2
+			anti_air_building=1
 			barracks = 1
 			hospitals = 1
 			prisons = 1

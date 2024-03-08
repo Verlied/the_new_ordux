@@ -4,11 +4,11 @@ state={
 	name="STATE_1053"
 
 	history={
-		owner = GRO
-		add_core_of = GRO
+		owner=ZIM
+		add_core_of = ZIM
 		buildings = {
-			infrastructure = 1
-			radar_station = 1
+			infrastructure=1
+			radar_station=1
 		}
 		victory_points = { 13767 5 }
 	}

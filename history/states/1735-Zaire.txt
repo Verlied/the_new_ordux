@@ -6,10 +6,10 @@ state={
 	}
 
 	history={
-		owner = ANG
+		owner=IBR
 		add_core_of = ANG
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 			barracks = 1
 		}
 		set_state_flag = universal_renamings
@@ -21,5 +21,5 @@ state={
 	}
 	manpower=197812
 	buildings_max_level_factor=1.000
-	state_category = rural
+	state_category=rural
 }
